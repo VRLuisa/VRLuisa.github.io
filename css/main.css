@@ -179,7 +179,7 @@ footer .footer-left{
 }
 
 footer .footer-right{
-    justify-self: right;
+    justify-content: right;
 }
 
 footer ul li a{
